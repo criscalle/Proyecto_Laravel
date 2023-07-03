@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    margin: 30px;
+}
+.novedades{
+   display: grid;
+    grid-template-columns: auto auto auto auto;
+   
+   
+}
+.novedades img{
+   height:150px;
+   margin: 50px;
+   align-items:center;
+
+}
+.novedades h4{
+    font-family:cursive;
+    font-size: 15px;
+    text-align: center;
+}
+
+.novedades h5{
+    font-family:cursive;
+    font-size: 12px;
+    text-align: center;
+}
+.contenedor h4{
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+.contenedor{
+    border: 1px solid #ccc;
+}
+
+.novedades{
+
+    align-items: center;
+    text-align: center;
+}
+
